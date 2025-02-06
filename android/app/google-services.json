@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "180707780416",
+    "firebase_url": "https://music-world-55f3e.firebaseio.com",
+    "project_id": "music-world-55f3e",
+    "storage_bucket": "music-world-55f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180707780416:android:30bedf3fe325cd521d7ca5",
+        "android_client_info": {
+          "package_name": "musicworld.com.adminmw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180707780416-mu2p95tdsmb517v3kkafs85sflatqfpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUnRHyLoTc1SXa7TYf2hTtd6kmIQnwB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180707780416-mu2p95tdsmb517v3kkafs85sflatqfpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180707780416:android:f86aab2ef5a1a9961d7ca5",
+        "android_client_info": {
+          "package_name": "musicworld.com.flutter_musicworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180707780416-4mv5m2233bvrl6b58g6rr59916i4sko0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "musicworld.com.flutter_musicworld",
+            "certificate_hash": "7b6f4f5df77197c68ac3c709d234e8a189a23565"
+          }
+        },
+        {
+          "client_id": "180707780416-mu2p95tdsmb517v3kkafs85sflatqfpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUnRHyLoTc1SXa7TYf2hTtd6kmIQnwB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180707780416-mu2p95tdsmb517v3kkafs85sflatqfpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
